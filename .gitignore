@@ -1,0 +1,4 @@
+bin/
+*.class
+test-output/
+*.classpath
